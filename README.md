@@ -12,7 +12,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Shared Network Files
 
 <h2>Operating Systems Used </h2>
+
 - Windows 10</b> (21H2)
+
 <h2>Tutorial Instructions</h2> 
   
 
